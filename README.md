@@ -1,5 +1,7 @@
 # pages
 www bookmarks<br>
+<body bg="black">
+<br>https://kindlemodding.org
 <br>https://www.reddit.com/r/TheOverload/comments/1hggm6d/dj_metatron_aka_traumprinz_aka_prince_of_denmark/
 <br>https://github.com/topics/blog-engine
 <br>https://github.com/hexojs/hexo
